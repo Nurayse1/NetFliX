@@ -1,1 +1,1 @@
-# NetFlix giris sayfası.
+# NetFlIX.
